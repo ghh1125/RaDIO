@@ -12,10 +12,10 @@ for subdir in "$base_dir"/*/; do
     if [ -d "$subdir" ]; then
         echo "Checking directory: $subdir"
 
-        # 构造 DRAGIN.json 文件的完整路径
-        config_path="$subdir/DRAGIN.json"
+        # 构造 RaDIO.json 文件的完整路径
+        config_path="$subdir/RaDIO.json"
 
-        # 检查 DRAGIN.json 文件是否存在
+        # 检查 RaDIO.json 文件是否存在
         if [ -f "$config_path" ]; then
             echo "Found config file: $config_path"
 
@@ -27,7 +27,7 @@ for subdir in "$base_dir"/*/; do
                 echo "Error running python script for $config_path"
             fi
         else
-            echo "No DRAGIN.json found in $subdir"
+            echo "No RaDIO.json found in $subdir"
         fi
     else
         echo "Skipping non-directory entry: $subdir"
