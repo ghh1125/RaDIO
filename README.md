@@ -4,7 +4,8 @@
 
 🚀 **Exciting News**! 
 
-We are **thrilled** to announce that our paper, titled **"RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation"**, has been **accepted** for presentation at **AAAI 2025**! 🎉
+✨ We are **thrilled** to announce that our paper, titled **"RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation"**, has been **accepted** for presentation at **AAAI 2025**! 🎉
+🎉
 ---
 
 
