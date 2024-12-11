@@ -1,7 +1,17 @@
 # RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation
 
-We are excited to announce that our paper titled **"RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation"** has been **accepted** for presentation at **AAAI 2025**!
-## Real-time Hallucination Detection
+---
+
+🚀 **Exciting News**! 
+
+We are **thrilled** to announce that our paper, titled **"RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation"**, has been **accepted** for presentation at **AAAI 2025**! 🎉
+
+The conference will be held in **[insert location here]** on **[insert dates here]**. 
+
+We sincerely thank the reviewers and the **AAAI conference organizers** for their support and valuable feedback. 🙏
+
+---
+
 
 ## Contextual Index Optimized Query Formulation
 
