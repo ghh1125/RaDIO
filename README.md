@@ -124,4 +124,3 @@ python ./src/evaluate1.py --dir path_to_folder(result/2wikimultihopqa_llama2_7b/
   year={2025}
 }
 ```
-
